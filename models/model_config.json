@@ -1,0 +1,8 @@
+{
+    "model": "Logistic Regression",
+    "threshold": 0.6,
+    "target_mapping": {
+        "No": 0,
+        "Yes": 1
+    }
+}
