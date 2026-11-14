@@ -1,4 +1,7 @@
 # Telecom Customer Churn Prediction
+## 🚀 Live Dashboard
+
+👉 [Click here to view the Customer Churn Prediction Dashboard](https://customer-churn-prediction-copy-kvekx9sgl2pz5z7u6cmoub.streamlit.app/)
 
 ## Overview
 A machine learning application that predicts whether a telecom customer is likely to churn.
